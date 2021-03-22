@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "shoppingcart-da13e": {
+      "hosting": {
+        "shoppcart": [
+          "shoppingcart-da13e"
+        ]
+      }
+    }
+  }
+}
